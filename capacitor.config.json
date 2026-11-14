@@ -1,0 +1,6 @@
+{
+  "appId": "com.brio.app",
+  "appName": "Brío",
+  "webDir": "www",
+  "server": { "androidScheme": "https" }
+}
